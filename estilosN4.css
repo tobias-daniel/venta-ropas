@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    background-image: url("https://static.brusheezy.com/system/resources/previews/000/021/196/non_2x/pink-butterfly-photoshop-wallpaper-photoshop-textures.jpg");
+    background-size: cover;
+}
+#encabezado{
+    background-color: slateblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+}
+h1{
+    color:darkmagenta;
+    margin: 0%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 16px;
+}
+#inicio{
+    border-radius: 3px;
+    padding: 2px;
+    height: 40px;
+    background-color:lightblue;
+    margin-left: 60%;
+    text-decoration: none;/**para sacar el subrayado**/
+}
+.marcos{
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 300px;
+}
+.marcos2{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-top: 0%;
+}
+article{
+    margin-top: 20px;
+    margin-left: 30%;
+}
+main{
+    display: flex;
+    margin: 20px;
+}
+table,td,th{
+    padding: 5px;
+    font-family: Arial;
+    border-collapse: collapse;
+    border: 2px solid rgb(15, 15, 75);
+    background-color:hotpink;
+    color:rgb(15, 15, 75);
+}
